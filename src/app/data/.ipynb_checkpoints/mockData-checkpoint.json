@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "leak_score": 100,
+    "total_monthly_leak_amount": 0.0,
+    "categories": {
+      "Software": 27.98,
+      "Entertainment": 15.49,
+      "Health & Fitness": 10.0
+    }
+  },
+  "subscriptions": [
+    {
+      "id": "sub_001",
+      "merchant_name": "Adobe Creative Cloud",
+      "status": "active_normal",
+      "current_monthly_price": 27.98,
+      "previous_monthly_price": 27.98,
+      "category": "Software",
+      "action_plan": {
+        "action_type": "downgrade",
+        "guidance": "Review settings on Adobe Creative Cloud to manage or adjust your billing plan."
+      }
+    },
+    {
+      "id": "sub_002",
+      "merchant_name": "Netflix",
+      "status": "active_normal",
+      "current_monthly_price": 15.49,
+      "previous_monthly_price": 15.49,
+      "category": "Entertainment",
+      "action_plan": {
+        "action_type": "downgrade",
+        "guidance": "Review settings on Netflix to manage or adjust your billing plan."
+      }
+    },
+    {
+      "id": "sub_003",
+      "merchant_name": "Planet Fitness",
+      "status": "active_normal",
+      "current_monthly_price": 10.0,
+      "previous_monthly_price": 10.0,
+      "category": "Health & Fitness",
+      "action_plan": {
+        "action_type": "downgrade",
+        "guidance": "Review settings on Planet Fitness to manage or adjust your billing plan."
+      }
+    }
+  ]
+}

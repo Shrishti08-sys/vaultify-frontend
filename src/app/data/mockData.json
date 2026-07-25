@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "leak_score": 100,
+    "total_monthly_leak_amount": 0.0,
+    "categories": {
+      "Software": 27.98,
+      "Entertainment": 15.49,
+      "Health & Fitness": 10.0
+    }
+  },
+  "subscriptions": [
+    {
+      "id": "sub_001",
+      "merchant_name": "Adobe Creative Cloud",
+      "status": "active_normal",
+      "current_monthly_price": 27.98,
+      "previous_monthly_price": 27.98,
+      "category": "Software",
+      "action_plan": {
+        "action_type": "cancel_or_downgrade",
+        "guidance": "Log into your account at account.adobe.com, click \"Manage plan\" under your Creative Cloud subscription, and select \"Cancel your plan.\" As you proceed through the cancellation steps, look for the \"Offers\" screen, where Adobe will likely offer you two free months or a heavily discounted monthly rate to stay."
+      }
+    },
+    {
+      "id": "sub_002",
+      "merchant_name": "Netflix",
+      "status": "active_normal",
+      "current_monthly_price": 15.49,
+      "previous_monthly_price": 15.49,
+      "category": "Entertainment",
+      "action_plan": {
+        "action_type": "cancel_or_downgrade",
+        "guidance": "To lower your monthly bill from $15.49 to $6.99, navigate to netflix.com/youraccount, click \"Change Plan,\" and select the \"Standard with ads\" option. If you prefer to stop paying entirely, click the \"Cancel Membership\" button on that same Account page and confirm the cancellation to cut the recurring expense completely."
+      }
+    },
+    {
+      "id": "sub_003",
+      "merchant_name": "Planet Fitness",
+      "status": "active_normal",
+      "current_monthly_price": 10.0,
+      "previous_monthly_price": 10.0,
+      "category": "Health & Fitness",
+      "action_plan": {
+        "action_type": "cancel_or_downgrade",
+        "guidance": "To cancel your $10 membership, you must either visit your home club in person to sign a cancellation form or send a written request via certified mail to the address found on the Planet Fitness Club Finder (planetfitness.com/gyms). To avoid a potential buyout fee if you are still under contract, ask the club manager to waive the fee or request a free membership freeze for up to three months as a temporary cost-saving alternative."
+      }
+    }
+  ]
+}
